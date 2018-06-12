@@ -3,7 +3,7 @@
 // @version  1
 // @grant    none
 // @include  https://www.reddit.com/r/*
-// @downloadURL      https://github.com/johnakki/reddit-user-sub-list/master/user.js
+// @downloadURL      https://github.com/johnakki/reddit-user-sub-list/blob/master/user.js
 // ==/UserScript==
 
 // setting up event listener on all redditor username links
